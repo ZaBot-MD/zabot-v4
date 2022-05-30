@@ -1,6 +1,6 @@
 let fs = require('fs')
 
-global.owner = ['6281227144597','6281228402912'] // Put your number here
+global.owner = ['6281929280669','6281929280669'] // Put your number here
 global.mods = ['6281228402912'] // Want some help?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json'))
 global.APIs = { // API Prefix
@@ -31,7 +31,7 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = ``
-global.author = '🌹 ZaBot-MD 🌹'
+global.author = '🌹 PanZZ-MD 🌹'
 global.email = 'ozan6825@hotmail'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wm = '© ZaBot-MD'
@@ -84,6 +84,7 @@ global.troli = {
                     "productImage": {
                         "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgASAMBIgACEQEDEQH/xAAuAAEBAAMBAQAAAAAAAAAAAAAAAQIEBgUDAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAOeF0KRSwIAKGx8lwbMNebPxMAjPCr0N57M6fX8nXPZ8PEkABUqgIAIAAAAB/8QAIRAAAgIDAAICAwAAAAAAAAAAAQIAAwQREhATIUBBQlH/2gAIAQEAAT8A+4ASQBGxL0XpkIE4YKCQdGHFvVOyh1Fxb3TpayRExL7BtazHRkYqw0fKAlgBMlHOPXULQR+0troOMKg69JGsT1aLLz65su1L1XBa1HyImQPfk8vpeY7FmJJ2fIJE6b+mVgM2mbUNCfi+WLwdB9wEiH7v/8QAFBEBAAAAAAAAAAAAAAAAAAAAQP/aAAgBAgEBPwBP/8QAFBEBAAAAAAAAAAAAAAAAAAAAQP/aAAgBAwEBPwBP/9k=",
                     },
+
                     "title": wm,
                     "currencyCode": "ILS",
                     "priceAmount1000": " ",
